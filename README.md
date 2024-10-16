@@ -61,9 +61,9 @@ You can install the required packages using pip. Here's how:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 ```
-## License
+## LICENSE
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/the-underachiever/TY-Minor-Project/blob/main/LICENSE.txt) file for details.
 
 ### MIT License
 
