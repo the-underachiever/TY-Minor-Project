@@ -65,8 +65,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/the-underachiever/TY-Minor-Project/blob/main/LICENSE.txt) file for details.
 
-### MIT License
-
 
 
 
